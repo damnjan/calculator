@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damnjan/calculator.git"
+  },
+  "author": "Damnjan Lukovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damnjan/calculator/issues"
+  },
+  "homepage": "https://github.com/damnjan/calculator#readme"
+}
